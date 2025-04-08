@@ -1,0 +1,11 @@
+[submodule "API-Gateway"]
+	path = API-Gateway
+	url = https://github.com/GraduationProjectSAMS/API-Gateway
+
+[submodule "User-Service"]
+	path = User-Service
+	url = https://github.com/GraduationProjectSAMS/User-Service
+	
+[submodule "Product-Service"]
+	path = Product-Service
+	url = https://github.com/GraduationProjectSAMS/Product-Service
