@@ -9,3 +9,6 @@
 [submodule "Product-Service"]
 	path = Product-Service
 	url = https://github.com/GraduationProjectSAMS/Product-Service
+[submodule "Order-Service"]
+	path = Order-Service
+	url = https://github.com/GraduationProjectSAMS/Order-Service.git
